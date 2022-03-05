@@ -4,8 +4,10 @@ This is an amazing project..
 
 ## This is a Sub Header
 
-Watch me write out this section
+Watch me write out this section!.
 
 ## sub sub heading
 
-This is more sub headings.
+This is more sub headings...
+
+## More sub head
